@@ -1,0 +1,5 @@
+*.pyc
+output/*
+cache/*
+README.html
+personal_configs.py
